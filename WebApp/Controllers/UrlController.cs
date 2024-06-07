@@ -16,7 +16,7 @@ namespace WebApp.Controllers
             _context = context;
         }
 
-        [HttpGet("api/url")]
+        [HttpGet("List")]
         public async Task<IActionResult> GetUrls()
         {
             var urls = await _context.Urls.ToListAsync();

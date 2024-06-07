@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\services\\urlgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,25 +126,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UrlController.cs",
               "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\UrlController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\UrlController.cs",
               "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\UrlController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\UrlController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:20:25.328Z"
+              "WhenOpened": "2024-06-07T08:20:25.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\AuthController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T08:20:07.467Z",
               "EditorCaption": ""
@@ -259,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
