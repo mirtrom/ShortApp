@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\services\\urlgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\services\\urlgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\dto\\redirectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\dto\\redirectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|c:\\users\\misha\\source\\repos\\shortapp\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D17A57A3-D699-42BC-98F7-A28438ACFA69}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\appenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\appenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\registrationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\registrationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortapp\\dal\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFDE60C-87E8-4AB2-8F16-32B5FE61FD38}|DAL\\DAL.csproj|solutionrelative:dal\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\UrlGenerator.cs",
+              "RelativeDocumentMoniker": "WebApp\\Services\\UrlGenerator.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\UrlGenerator.cs",
+              "RelativeToolTip": "WebApp\\Services\\UrlGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:40:06.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T09:35:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\UrlController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:20:25.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:20:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedirectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\DTO\\RedirectDTO.cs",
+              "RelativeDocumentMoniker": "WebApp\\DTO\\RedirectDTO.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\DTO\\RedirectDTO.cs",
+              "RelativeToolTip": "WebApp\\DTO\\RedirectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:23:02.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrlDto.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\DTO\\UrlDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\DTO\\UrlDto.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\DTO\\UrlDto.cs",
+              "RelativeToolTip": "WebApp\\DTO\\UrlDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:22:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "WebApp\\Services\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:09:41.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\JwtService.cs",
+              "RelativeToolTip": "WebApp\\Services\\JwtService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:04:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T14:56:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "WebApp\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "WebApp\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:52:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\AuthenticationResult.cs",
+              "RelativeToolTip": "DAL\\Models\\AuthenticationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:51:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\RegistrationResult.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\RegistrationResult.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\RegistrationResult.cs",
+              "RelativeToolTip": "DAL\\Models\\RegistrationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:50:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\AppEnums.cs",
+              "RelativeDocumentMoniker": "DAL\\AppEnums.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\AppEnums.cs",
+              "RelativeToolTip": "DAL\\AppEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:46:55.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:43:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Data\\Context.cs",
+              "RelativeToolTip": "DAL\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:27:49.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:22:10.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "DAL\\Models\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:20:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\LoginModel.cs",
+              "RelativeToolTip": "DAL\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:18:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\UrlModel.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UrlModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortApp\\DAL\\Models\\UrlModel.cs",
+              "RelativeToolTip": "DAL\\Models\\UrlModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:17:08.617Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

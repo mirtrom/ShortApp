@@ -1,0 +1,53 @@
+<h1>Shortened URLs</h1>
+<div *ngIf="authService.isAuthenticated;">
+  <button (click)="showAddUrlForm()">Add URL</button>
+</div>
+  <!-- Додана форма для введення нового URL -->
+<div *ngIf="showForm">
+  <form (ngSubmit)="addUrl()">
+    <label for="originalLink">Original URL:</label>
+    <input type="text" id="originalLink" name="originalLink" [(ngModel)]="originalLink" required>
+    <button type="submit">Add</button>
+  </form>
+</div>
+
+<div *ngIf="authService.isAuthenticated; else notAuthenticated">
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Original URL</th>
+      <th>Shortened</th>
+      <th  *ngIf="authService.isAdmin;">Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let link of links">
+      <td><a href="javascript:void(0);" class="info-button" (click)="openLinkInfo(link.id)">{{ link.id }}</a></td>
+      <td>{{ link.originalLink }}</td>
+      <td><a href="javascript:void(0);" (click)="redirectUrl(link.id)">{{ link.shortenedLink }}</a></td>
+      <td *ngIf="authService.isAdmin;"><button class="close-button" (click)="deleteLink(link.id)"></button></td>
+
+    </tr>
+  </tbody>
+</table>
+</div>
+<ng-template #notAuthenticated>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Original URL</th>
+        <th>Shortened</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let link of links">
+        <td>{{ link.id }}</td>
+        <td>{{ link.originalLink }}</td>
+        <td><a href="javascript:void(0);" (click)="redirectUrl(link.id)">{{ link.shortenedLink }}</a></td>
+      </tr>
+    </tbody>
+  </table>
+</ng-template>
+
